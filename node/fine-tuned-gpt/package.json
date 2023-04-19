@@ -1,0 +1,16 @@
+{
+  "name": "fine-tuned-gpt",
+  "version": "1.0.0",
+  "description": "A Node.js project that fine-tunes GPT with custom data.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.2.1"
+  }
+}

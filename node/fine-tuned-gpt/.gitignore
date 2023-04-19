@@ -1,0 +1,11 @@
+# environment
+.env
+
+# node
+node_modules
+
+# training data
+data.jsonl
+data_prepared.jsonl
+createFineTune.js
+createCompletion.js
